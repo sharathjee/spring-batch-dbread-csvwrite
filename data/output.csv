@@ -1,0 +1,10 @@
+id, first_name, last_name, email, phone, gender, age, registered, orders, spent, job, hobbies, is_married
+1,ram,,ram007@gmail.com,,male,34,2024-12-01,30,56.0,,,true
+2,laxman,,laxman007@gmail.com,,male,34,2024-12-01,40,56.0,,,true
+3,karan,,karan007@gmail.com,,male,34,2024-12-01,45,78.0,,,true
+4,Unni,,Unni007@gmail.com,,male,34,2024-12-01,23,56.0,,,false
+5,Rahaman,,Rahaman007@gmail.com,,male,34,2024-12-01,32,90.0,,,true
+6,Ravan,,Ravan007@gmail.com,,male,34,2024-12-01,30,56.0,,,true
+7,Andakasur,,Andakasur007@gmail.com,,male,34,2024-12-01,58,57.0,,,true
+8,Vrishali,,Vrishali007@gmail.com,,female,34,2024-12-01,30,59.0,,,true
+9,Arjun,,Arjun007@gmail.com,,male,34,2024-12-01,30,60.0,,,true
